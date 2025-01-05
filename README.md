@@ -27,8 +27,8 @@
 - Then open your browser and navigate to http://localhost:4200/.
 
 ## Linting
-- The project uses ESLint to check code quality. To run linting, use the following command
 ``` npm run lint ```
+- The project uses ESLint to check code quality. To run linting.
 
 # Contributing
 - If you'd like to contribute to the project, please follow these steps:
